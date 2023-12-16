@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **React , MEARN**
 
-- 📫 How to reach me ****
+- 📫 How to reach me <a href="https://www.linkedin.com/in/jazib-zaidi-671975259" target="blank">Linkdin</a>
 
 - ⚡ Fun fact **I am Funny**
 
