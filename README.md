@@ -13,7 +13,7 @@
 
 - 📫 How to reach me <a href="https://www.linkedin.com/in/jazib-zaidi-671975259" target="blank">Linkdin</a>
 
-- ⚡ Fun fact : **I am a writer. :)**
+- ⚡ Fun fact : **I can design and develop your product :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
