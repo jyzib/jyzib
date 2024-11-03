@@ -6,7 +6,6 @@
 
 
 
-- 🔭 I’m currently working on **LMS Mern Project**
 
 - 🌱 I’m currently learning **DevOps**
 
